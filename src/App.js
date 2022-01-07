@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './App.css';
-import Table from './components/table.js'
+import Table from './components/Table.js'
 import Button from './components/Button.js'
 
 function App() {
