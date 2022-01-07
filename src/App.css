@@ -1,4 +1,64 @@
-.App {
+.App{
   text-align: center;
 }
 
+button{
+  width: 30px;
+  height: 30px;
+}
+
+input{
+  width:50px;
+  margin: 5px;
+}
+
+table{
+  background-color: grey;
+  margin: auto;
+}
+
+td {
+  width: 30px;
+  height: 30px;
+}
+
+.selector{
+  display: inline-flex;
+}
+
+.selecblack{
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  display: inline-block;
+}
+
+.selecblue{
+  width: 30px;
+  height: 30px;
+  background-color: blue;
+  display: inline-block;
+}
+
+.selecgreen{
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  display: inline-block;
+}
+
+.celda{
+  background-color: black;
+}
+
+.black{
+  background-color: black;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.green{
+  background-color: green;
+}
